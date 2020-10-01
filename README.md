@@ -42,3 +42,4 @@ extensive [__help articles__](https://help.kite.com) for those purposes.
   * [__Vim guide__](https://help.kite.com/category/47-vim-integration)
   * [__Spyder guide__](https://help.kite.com/category/89-spyder-integration)
 * For troubleshooting common problems, please refer to our [__troubleshooting guide__](https://help.kite.com/category/52-common-issues-troubleshooting).
+h
